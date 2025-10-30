@@ -1,1 +1,1 @@
-# Bigger-is-Greater-algo
+# Bigger-is-Greater-algo It takes a word and finds the next lexicographically greater string that can be formed by rearranging its letters. The function biggerIsGreater (currently empty) will include the logic to swap and sort characters to get the smallest possible word that’s just larger than the given one — or return "no answer" if none exists.
